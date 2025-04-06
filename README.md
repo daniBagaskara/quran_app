@@ -2,7 +2,7 @@
 
 Aplikasi Al-Quran digital berbasis web yang dibangun menggunakan Vue.js, Tailwind CSS, dan API equran.id v2. Aplikasi ini menyediakan pengalaman membaca Al-Quran yang responsif dan mudah digunakan.
 
-![Banner Quran Digital App](public/images/screenshot.png)
+![Banner Quran Digital App](public/images/Screenshot.png)
 
 ## Fitur
 
